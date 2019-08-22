@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="9" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CalcSuite" duration-ms="28" started-at="2019-08-21T16:24:40Z" finished-at="2019-08-21T16:24:40Z">
+    <groups>
+      <group name="simple test">
+        <method signature="SubTest.subTest(double, double, double)[pri:0, instance:simpleTests.SubTest@5f8ed237]" name="subTest" class="simpleTests.SubTest"/>
+        <method signature="SumTest.sumTest(double, double, double)[pri:0, instance:simpleTests.SumTest@57fa26b7]" name="sumTest" class="simpleTests.SumTest"/>
+      </group> <!-- simple test -->
+    </groups>
+    <test name="Parallel Test" duration-ms="28" started-at="2019-08-21T16:24:40Z" finished-at="2019-08-21T16:24:40Z">
+      <class name="simpleTests.SubTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:simpleTests.SubTest@5f8ed237]" name="launch" is-config="true" duration-ms="8" started-at="2019-08-21T16:24:40Z" finished-at="2019-08-21T16:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="subTest(double, double, double)[pri:0, instance:simpleTests.SubTest@5f8ed237]" name="subTest" duration-ms="1" started-at="2019-08-21T16:24:40Z" data-provider="TestDataSub" finished-at="2019-08-21T16:24:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subTest -->
+        <test-method status="PASS" signature="subTest(double, double, double)[pri:0, instance:simpleTests.SubTest@5f8ed237]" name="subTest" duration-ms="0" started-at="2019-08-21T16:24:40Z" data-provider="TestDataSub" finished-at="2019-08-21T16:24:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subTest -->
+        <test-method status="PASS" signature="subTest(double, double, double)[pri:0, instance:simpleTests.SubTest@5f8ed237]" name="subTest" duration-ms="1" started-at="2019-08-21T16:24:40Z" data-provider="TestDataSub" finished-at="2019-08-21T16:24:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subTest -->
+        <test-method status="PASS" signature="shutdown()[pri:0, instance:simpleTests.SubTest@5f8ed237]" name="shutdown" is-config="true" duration-ms="0" started-at="2019-08-21T16:24:40Z" finished-at="2019-08-21T16:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+        <test-method status="PASS" signature="subTest(double, double, double)[pri:0, instance:simpleTests.SubTest@5f8ed237]" name="subTest" duration-ms="0" started-at="2019-08-21T16:24:40Z" data-provider="TestDataSub" finished-at="2019-08-21T16:24:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subTest -->
+      </class> <!-- simpleTests.SubTest -->
+      <class name="simpleTests.SumTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:simpleTests.SumTest@57fa26b7]" name="launch" is-config="true" duration-ms="8" started-at="2019-08-21T16:24:40Z" finished-at="2019-08-21T16:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="sumTest(double, double, double)[pri:0, instance:simpleTests.SumTest@57fa26b7]" name="sumTest" duration-ms="1" started-at="2019-08-21T16:24:40Z" data-provider="TestDataSum" finished-at="2019-08-21T16:24:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumTest -->
+        <test-method status="PASS" signature="sumTest(double, double, double)[pri:0, instance:simpleTests.SumTest@57fa26b7]" name="sumTest" duration-ms="1" started-at="2019-08-21T16:24:40Z" data-provider="TestDataSum" finished-at="2019-08-21T16:24:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumTest -->
+        <test-method status="PASS" signature="sumTest(double, double, double)[pri:0, instance:simpleTests.SumTest@57fa26b7]" name="sumTest" duration-ms="0" started-at="2019-08-21T16:24:40Z" data-provider="TestDataSum" finished-at="2019-08-21T16:24:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumTest -->
+        <test-method status="PASS" signature="sumTest(double, double, double)[pri:0, instance:simpleTests.SumTest@57fa26b7]" name="sumTest" duration-ms="0" started-at="2019-08-21T16:24:40Z" data-provider="TestDataSum" finished-at="2019-08-21T16:24:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumTest -->
+        <test-method status="PASS" signature="shutdown()[pri:0, instance:simpleTests.SumTest@57fa26b7]" name="shutdown" is-config="true" duration-ms="0" started-at="2019-08-21T16:24:40Z" finished-at="2019-08-21T16:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+      </class> <!-- simpleTests.SumTest -->
+    </test> <!-- Parallel Test -->
+  </suite> <!-- CalcSuite -->
+  <suite name="Default Suite" duration-ms="0" started-at="2019-08-21T16:24:40Z" finished-at="2019-08-21T16:24:40Z">
+    <groups>
+    </groups>
+  </suite> <!-- Default Suite -->
+</testng-results>

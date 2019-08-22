@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [CalcSuite]" parallel="classes">
+  <listeners>
+    <listener class-name="TestListener.TestListener"/>
+  </listeners>
+  <test thread-count="2" name="Parallel Test(failed)" parallel="classes">
+    <groups>
+      <run>
+        <include name="divide"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="simpleTests.DivideTest">
+        <methods>
+          <include name="divTest" invocation-numbers="0 1 2 3"/>
+        </methods>
+      </class> <!-- simpleTests.DivideTest -->
+    </classes>
+  </test> <!-- Parallel Test(failed) -->
+</suite> <!-- Failed suite [CalcSuite] -->

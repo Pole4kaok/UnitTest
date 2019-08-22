@@ -1,12 +1,23 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="CalcSuite">
-	<listeners>
+<suite name="CalcSuite" parallel="classes" thread-count="2">
 
+	<listeners>
+<listener class-name="TestListener.TestListener"></listener>
 	</listeners>
 
-<test name="Sum Test">
+<test name="Parallel Test">
+	<groups>
+		<run>
+			<exclude name="divide"/>
+		</run>
+	</groups>
 	<classes>
-
+        <class name="simpleTests.SumTest"/>
+		<class name="simpleTests.SubTest"/>
+		<class name="simpleTests.DivideTest"/>
 	</classes>
 </test>
+
+
+
 </suite>

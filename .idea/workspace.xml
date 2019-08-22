@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7668a866-05e2-42b7-8501-fe2c31f35658" name="Default Changelist" comment="" />
+    <list default="true" id="7668a866-05e2-42b7-8501-fe2c31f35658" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CustomRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CustomRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestListener/TestListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestListener/TestListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/booleanTest/IsNegativeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/booleanTest/IsNegativeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/booleanTest/IsPositiveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/booleanTest/IsPositiveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/commonTest/TryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/commonTest/TryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/geomTests/CosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/geomTests/CosTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/geomTests/CtngTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/geomTests/CtngTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/geomTests/SinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/geomTests/SinTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/geomTests/TgTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/geomTests/TgTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/powAndSqrtTests/PowTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/powAndSqrtTests/PowTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/powAndSqrtTests/SqrtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/powAndSqrtTests/SqrtTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/simpleTests/DivideTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/simpleTests/DivideTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/simpleTests/MultiplyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/simpleTests/MultiplyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/simpleTests/SubTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/simpleTests/SubTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/simpleTests/SumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/simpleTests/SumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SubTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testng.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,19 +35,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TryTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/simpleTests/SumTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -34,43 +47,53 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SumTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/commonTest/TryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            <state relative-caret-position="425">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SubTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/simpleTests/SubTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="292">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/MultiplyTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="41" selection-start-column="41" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/DivideTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/simpleTests/DivideTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="39" selection-start-column="39" selection-end-column="39" />
+            <state relative-caret-position="139">
+              <caret line="10" column="56" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CustomRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,17 +101,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="170">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/annotations/Test.class">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestListener/TestListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="340">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,8 +122,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../Automation/Demo-M5-Java/cal/src/main/java/com/epam/cdp/cal/calculator-1.0.jar!/com/epam/tat/module4/Calculator.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+            <state relative-caret-position="236">
+              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+              <folding>
+                <element signature="e#867#868#0" expanded="true" />
+                <element signature="e#895#896#0" expanded="true" />
+                <element signature="e#1104#1105#0" expanded="true" />
+                <element signature="e#1152#1153#0" expanded="true" />
+                <element signature="e#1187#1188#0" expanded="true" />
+                <element signature="e#1222#1223#0" expanded="true" />
+                <element signature="e#1257#1258#0" expanded="true" />
+                <element signature="e#1291#1292#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/simpleTests/MultiplyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,27 +160,46 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Test.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/TryTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/SubTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/simpleOperations/SubTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/SumTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/MultiplyTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/DivideTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/commonTest/TryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/booleanTest/IsPositiveTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/booleanTest/IsNegativeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/geomTests/CosTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/geomTests/SinTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/geomTests/TgTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/geomTests/CtngTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/powAndSqrtTests/PowTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/powAndSqrtTests/SqrtTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/simpleTests/MultiplyTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestListener/TestListener.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CustomRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/simpleTests/SumTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/simpleTests/SubTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/simpleTests/DivideTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/testng.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2028" />
-    <option name="y" value="178" />
+    <option name="x" value="310" />
+    <option name="y" value="85" />
     <option name="width" value="1551" />
     <option name="height" value="938" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -176,29 +243,51 @@
               <item name="UnitTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="commonTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="geomTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="powAndSqrtTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TestListener" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UnitTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="UnitTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="calculator-1.0" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="UnitTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="calculator-1.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="calculator-1.0.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UnitTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="calculator-1.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="calculator-1.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="module4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,8 +296,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566315469488" />
-    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566487010742" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../jcommander-1.48.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -230,11 +319,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SubTest">
-    <configuration name="SubTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.DivideTest">
+    <configuration name="CustomRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomRunner" />
       <module name="UnitTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SubTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivideTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpleTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="simpleTests" />
+      <option name="MAIN_CLASS_NAME" value="simpleTests.DivideTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="powAndSqrtTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="powAndSqrtTests" />
+      <option name="MAIN_CLASS_NAME" value="powAndSqrtTests.PowTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqrtTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="powAndSqrtTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="powAndSqrtTests" />
+      <option name="MAIN_CLASS_NAME" value="powAndSqrtTests.SqrtTest" />
       <properties />
       <listeners />
       <method v="2">
@@ -243,18 +377,14 @@
     </configuration>
     <configuration name="SumTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SumTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TryTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="UnitTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TryTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpleTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="simpleTests" />
+      <option name="MAIN_CLASS_NAME" value="simpleTests.SumTest" />
       <properties />
       <listeners />
       <method v="2">
@@ -263,9 +393,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SubTest" />
+        <item itemvalue="TestNG.DivideTest" />
         <item itemvalue="TestNG.SumTest" />
-        <item itemvalue="TestNG.TryTest" />
+        <item itemvalue="Application.CustomRunner" />
+        <item itemvalue="TestNG.SqrtTest" />
+        <item itemvalue="TestNG.PowTest" />
       </list>
     </recent_temporary>
   </component>
@@ -283,42 +415,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TryTest - 2019.08.20 at 15h 58m 04s.xml">
-      <configuration name="TryTest" configurationId="TestNG" />
+    <history-entry file="CosTest - 2019.08.21 at 11h 47m 35s.xml">
+      <configuration name="CosTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TryTest - 2019.08.20 at 15h 58m 38s.xml">
-      <configuration name="TryTest" configurationId="TestNG" />
+    <history-entry file="SinTest - 2019.08.21 at 11h 48m 43s.xml">
+      <configuration name="SinTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TryTest - 2019.08.20 at 16h 28m 06s.xml">
-      <configuration name="TryTest" configurationId="TestNG" />
+    <history-entry file="TgTest - 2019.08.21 at 11h 51m 01s.xml">
+      <configuration name="TgTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TryTest - 2019.08.20 at 16h 53m 38s.xml">
-      <configuration name="TryTest" configurationId="TestNG" />
+    <history-entry file="CtngTest - 2019.08.21 at 11h 55m 24s.xml">
+      <configuration name="CtngTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TryTest - 2019.08.20 at 17h 19m 51s.xml">
-      <configuration name="TryTest" configurationId="TestNG" />
+    <history-entry file="PowTest - 2019.08.21 at 16h 58m 10s.xml">
+      <configuration name="PowTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SumTest - 2019.08.20 at 18h 24m 26s.xml">
+    <history-entry file="PowTest - 2019.08.21 at 16h 58m 23s.xml">
+      <configuration name="PowTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SqrtTest - 2019.08.21 at 17h 00m 25s.xml">
+      <configuration name="SqrtTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DivideTest - 2019.08.21 at 19h 13m 14s.xml">
+      <configuration name="DivideTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SumTest - 2019.08.21 at 19h 25m 16s.xml">
       <configuration name="SumTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SumTest - 2019.08.20 at 18h 24m 48s.xml">
-      <configuration name="SumTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SubTest - 2019.08.20 at 18h 29m 09s.xml">
-      <configuration name="SubTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SubTest - 2019.08.20 at 18h 29m 46s.xml">
-      <configuration name="SubTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SubTest - 2019.08.20 at 18h 29m 56s.xml">
-      <configuration name="SubTest" configurationId="TestNG" />
+    <history-entry file="DivideTest - 2019.08.21 at 19h 25m 22s.xml">
+      <configuration name="DivideTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1931" y="136" width="1551" height="938" extended-state="0" />
-    <editor active="true" />
+    <frame x="310" y="85" width="1551" height="938" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31270358" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31270358" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -327,10 +458,10 @@
       <window_info id="UI Designer" order="6" />
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="JRebel Executor" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.329602" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33084577" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33084577" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39925373" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -348,16 +479,40 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31270358" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="JRebel Executor" order="0" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.329602" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.33084577" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.39925373" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/resources.properties" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/annotations/Test.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -365,64 +520,191 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/package-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/booleanTest/IsNegativeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/booleanTest/IsPositiveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/geomTests/CosTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/geomTests/SinTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/geomTests/TgTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/powAndSqrtTests/PowTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/powAndSqrtTests/SqrtTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/geomTests/CtngTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/simpleTests/MultiplyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$PROJECT_DIR$/../Automation/Demo-M5-Java/cal/src/main/java/com/epam/cdp/cal/calculator-1.0.jar!/com/epam/tat/module4/Calculator.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        <state relative-caret-position="236">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+          <folding>
+            <element signature="e#867#868#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#1104#1105#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+            <element signature="e#1187#1188#0" expanded="true" />
+            <element signature="e#1222#1223#0" expanded="true" />
+            <element signature="e#1257#1258#0" expanded="true" />
+            <element signature="e#1291#1292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestListener/TestListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/simpleTests/SubTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="170">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/package-info.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/CustomRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/commonTest/TryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/simpleTests/SumTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SumTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/simpleTests/DivideTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        <state relative-caret-position="139">
+          <caret line="10" column="56" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SubTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MultiplyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="41" selection-start-column="41" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DivideTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -503,7 +785,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>testng-6.14.3</last-edited>
+          <last-edited>jcommander-1.48</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
